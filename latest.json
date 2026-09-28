@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
-  "url": "https://github.com/ekiero-pl/kalendarz-dekor/releases/download/v2.0.3/KalendarzDekor-Setup-2.0.3.exe",
-  "sha256": "d69929dbb4ece5398b3032e9dadbf0175cbd306dffe2658ea01bbeb6d3a35583",
-  "notes": "Poprawka aktualizacji.",
+  "version": "2.0.4",
+  "url": "https://github.com/ekiero-pl/kalendarz-dekor/releases/download/v2.0.4/KalendarzDekor-Setup-2.0.4.exe",
+  "sha256": "f233b85bc13856c65e4cff52cb6f81935901afe7892c24217e9aee437bb6d6cd",
+  "notes": "Zakładki na górze można przestawiać (ikonka ⇄ obok zakładek), nowy tekst o haśle.",
   "force": false,
   "forceUsers": []
 }
