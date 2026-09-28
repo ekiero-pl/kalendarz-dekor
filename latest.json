@@ -1,7 +1,7 @@
 {
-  "version": "2.0.16",
-  "url": "https://github.com/ekiero-pl/kalendarz-dekor/releases/download/v2.0.16/KalendarzDekor-Setup-2.0.16.exe",
-  "sha256": "f0870270e29c3e282a247f1b3d52c52e816848a41d2844609019f03fdf38e6f7",
+  "version": "2.0.17",
+  "url": "https://github.com/ekiero-pl/kalendarz-dekor/releases/download/2.0.17/KalendarzDekor-Setup-2.0.17.exe",
+  "sha256": "decf88cf9d9a638b3ef3eb85d094af020c3ecf260abc34690d20c3c751ed8ba0",
   "notes": "",
   "force": false,
   "forceUsers": []
