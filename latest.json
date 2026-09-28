@@ -1,0 +1,8 @@
+{
+  "version": "2.0.2",
+  "url": "https://github.com/ekiero-pl/kalendarz-dekor/releases/download/v2.0.2/KalendarzDekor-Setup-2.0.2.exe",
+  "sha256": "d9c783b52734ddb5a53296b3686604f88cae9ece14bb8d6619640daa6afb55e1",
+  "notes": "Zakładanie kont z akceptacją admina, kilka okien programu naraz, poprawki.",
+  "force": false,
+  "forceUsers": []
+}
