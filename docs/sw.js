@@ -1,6 +1,6 @@
 /* Kalendarz Dekor by Ekiero · © 2026 · Wszelkie prawa zastrzeżone
    Ekran startowy działa też bez internetu (program jest w pamięci telefonu). Najpierw sieć, bez sieci – kopia. */
-var C = 'kd-start-2.1.149';
+var C = 'kd-start-2.1.152';
 var F = ['./', './index.html', './manifest.webmanifest', './ikona-180.png', './ikona-192.png', './ikona-512.png'];
 self.addEventListener('install', function (e) { e.waitUntil(caches.open(C).then(function (c) { return c.addAll(F); }).then(function () { return self.skipWaiting(); })); });
 self.addEventListener('activate', function (e) { e.waitUntil(caches.keys().then(function (k) { return Promise.all(k.filter(function (x) { return x !== C && x !== 'kd-push'; }).map(function (x) { return caches.delete(x); })); }).then(function () { return self.clients.claim(); })); });
